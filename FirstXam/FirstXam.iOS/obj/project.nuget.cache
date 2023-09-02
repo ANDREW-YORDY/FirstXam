@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KBTQCG6LD/F6FutC+xsGyAyBnNnW+2q+mRmb9YTKlY6mccsVqFyfBzVld0zeZoXZjX5mv+wUI+fW2ijlC7MODg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yarde\\OneDrive - INTECOL\\Personal\\Información personal\\LEARN\\Xamarin-Learn\\projects\\FirstXam\\FirstXam\\FirstXam.iOS\\FirstXam.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yarde\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\yarde\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\yarde\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
